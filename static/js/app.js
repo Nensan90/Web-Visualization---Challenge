@@ -47,6 +47,3 @@ var bubbleLayout = {
     height: 400,
     width: 800
   };
-
-  Plotly.newPlot("bubblechart", bubbleData, bubbleLayout);
-}
